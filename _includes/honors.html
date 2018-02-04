@@ -1,0 +1,17 @@
+{% if site.data.honors %}
+<section class="section honors-section">
+  <h2 class="section-title"><i class="fa fa-trophy"></i>荣誉奖项</h2>
+
+	{% for honor in site.data.honors %}
+	<div class="item">
+		<div class="upper-row">
+			<div class="meta">
+				<div class="name">{{ honor.name }}</div>
+			</div>
+			<div class="time">{{ honor.time }}</div>
+		</div>
+	</div><!--//item-->
+	{% endfor %}
+
+</section><!--//section-->
+{% endif %}

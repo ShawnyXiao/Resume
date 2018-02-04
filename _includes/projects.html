@@ -1,0 +1,23 @@
+{% if site.data.projects %}
+<section class="section projects-section">
+  <h2 class="section-title"><i class="fa fa-archive"></i>项目经历</h2>
+
+  {% for project in site.data.projects %}
+  <div class="item">
+    <div class="upper-row">
+      <div class="meta">
+        <div class="name">{{ project.title }}</div>
+        <div class="intro">{{ project.intro }}</div>
+        <ul>
+          {% for description in project.descriptions %}
+          <li>{{ description.description }}</li>
+          {% endfor %}
+        </ul>
+      </div>
+      <div class="time">{{ project.time }}</div>
+    </div>
+  </div><!--//item-->
+  {% endfor %}
+
+</section><!--//section-->
+{% endif %}

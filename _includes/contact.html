@@ -1,0 +1,23 @@
+   <div class="contact-container container-block">
+   	   <h2 class="container-block-title">联系方式</h2>
+
+       <ul class="list-unstyled contact-list">
+
+           {% if site.phone %}
+           <li class="phone"><i class="fa fa-phone"></i> <a href="tel:{{site.phone}}">{{site.phone}}</a></li>
+           {% endif %}
+
+           {% if site.email %}
+           <li class="email"><i class="fa fa-envelope"></i> <a href="mailto: {{site.email}}">{{site.email}}</a></li>
+           {% endif %}
+
+           {% if site.github %}
+           <li class="github"><i class="fa fa-github"></i> <a href="http://github.com/{{site.github}}" target="_blank">{{site.github}}</a></li>
+           {% endif %}
+
+           {% if site.website %}
+           <li class="website"><i class="fa fa-home"></i> <a href="http://{{site.website}}" target="_blank">{{site.website}}</a></li>
+           {% endif %}
+
+       </ul>
+   </div><!--//contact-container-->

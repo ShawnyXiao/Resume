@@ -1,0 +1,26 @@
+{% if site.data.skills %}
+<section class="skills-section section">
+
+  <h2 class="section-title"><i class="fa fa-rocket"></i>个人技能</h2>
+
+  <ul class="list-unstyled">
+    {% for description in site.data.skills.descriptions %}
+    <li>{{ description.skill }}</li>
+    {% endfor %}
+  </ul>
+
+  <div class="skillset">
+    <div>编程语言掌握情况：</div>
+    {% for skill in site.data.skills.bars %}
+    <div class="item">
+      <span class="level-title">{{ skill.name }}</span>
+      <div class="level-bar">
+        <div class="level-bar-inner" data-level="{{ skill.level }}">
+        </div>
+      </div><!--//level-bar-->
+    </div><!--//item-->
+    {% endfor %}
+  </div>
+
+</section><!--//skills-section-->
+{% endif %}

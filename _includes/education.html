@@ -1,0 +1,18 @@
+{% if site.data.educations %}
+<section class="section educations-section">
+  <h2 class="section-title"><i class="fa fa-graduation-cap"></i>教育经历</h2>
+
+	{% for education in site.data.educations %}
+	<div class="item">
+		<div class="upper-row">
+			<div class="meta">
+				<div class="name">{{ education.university }}</div>
+				<div class="degree">{{ education.degree }}</div>
+			</div>
+			<div class="time">{{ education.time }}</div>
+		</div>
+	</div><!--//item-->
+	{% endfor %}
+
+</section><!--//section-->
+{% endif %}

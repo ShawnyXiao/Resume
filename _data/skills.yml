@@ -1,0 +1,21 @@
+descriptions:
+- skill: '英语等级: CET6'
+- skill: '编程语言: Python, Java, C/C++, Matlab, HTML/CSS/Javascript'
+- skill: '数据挖掘: 了解 numpy, pandas, sklearn, xgboost, lightgbm 等常用数据挖掘算法库'
+
+bars:
+- skill:
+  name: Python
+  level: 90%
+- skill:
+  name: Java
+  level: 90%
+- skill:
+  name: C/C++
+  level: 70%
+- skill:
+  name: Matlab
+  level: 70%
+- skill:
+  name: HTML/CSS/Javascript
+  level: 80%
