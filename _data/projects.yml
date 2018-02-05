@@ -1,31 +1,31 @@
 - project:
-  title: 大数据与计算智能大赛-企业经营退出风险预测
+  title: 大数据与计算智能大赛-<a href="http://www.datafountain.cn/#/competitions/271/intro">企业经营退出风险预测</a>
   time: 2017.10 - 2017.12
   intro: 中国计算机学会（CCF）联合量子数聚举办。希望利用中小型企业的基础数据与行为数据，预测该企业未来两年是否因经营不善而退出市场。
   descriptions:
   - description: 在团队中负责单模型的提分：挖掘基础特征、统计特征和交叉特征等，构建 XGBoost 模型
   - description: 复赛 B 榜单模型分数在团队中最优，单模型分数 6930
-  - description: 复赛 A 榜团队分数 6945，排名 3rd/569，B榜分数 6947，排名 9th/569 (Top 1.58%)
-  - description: 赛后于 Github 开源解决方案，目前已获得 53 stars 与 21 forks【<a href="https://github.com/ShawnyXiao/2017-CCF-BDCI-Enterprise">Github 代码</a>】
+  - description: 复赛 A 榜团队分数 6945，排名 <b>3rd/569</b>，B榜分数 6947，排名 <b>9th/569 (Top 1.58%)</b>
+  - description: 赛后于 Github 开源解决方案，目前已获得 <b>53 stars</b> 与 <b>21 forks</b>【<a href="https://github.com/ShawnyXiao/2017-CCF-BDCI-Enterprise">Github 代码</a>】
 - project:
-  title: 大数据与计算智能大赛-让 AI 当法官（初赛）
+  title: 大数据与计算智能大赛-<a href="http://www.datafountain.cn/#/competitions/277/intro">让 AI 当法官</a>（初赛）
   time: 2017.10 - 2017.12
   intro: 中国计算机学会（CCF）联合明略数据举办。希望利用法律案件的案情文本，预测该案件所处的罚金额度范围（初赛）和相关法律条文（复赛）。
   descriptions:
   - description: 初赛 solo，未参加复赛：对文本数据进行分词和去除停用词等预处理操作，挖掘词性特征和统计特征等，基于 stacking 构建融合模型
   - description: 比赛中只提交了 2 次，便达到分数 4503
-  - description: 初赛 A 榜分数 4503，排名 5th/415，B榜分数 4573，排名 7th/415 (Top 1.68%)
-  - description: 赛后于 Github 开源解决方案，目前已获得 96 stars 与 29 forks【<a href="https://github.com/ShawnyXiao/2017-CCF-BDCI-AIJudge">Github 代码</a>】
+  - description: 初赛 A 榜分数 4503，排名 <b>5th/415</b>，B榜分数 4573，排名 <b>7th/415 (Top 1.68%)</b>
+  - description: 赛后于 Github 开源解决方案，目前已获得 <b>96 stars</b> 与 <b>29 forks</b>【<a href="https://github.com/ShawnyXiao/2017-CCF-BDCI-AIJudge">Github 代码</a>】
 - project:
-  title: SprintBoot-MyBatis
+  title: <a href="https://github.com/ShawnyXiao/SpringBoot-MyBatis">SprintBoot-MyBatis</a>
   time: 2016.11 - 2017.03
   intro: 一个集成了 SpringBoot、MyBatis 和 Spring Security OAuth 的 REST 的后端框架，旨在解决真实情况中配置繁杂的问题。
   descriptions:
   - description: 唯一负责人：需求、研发、文档和开源
   - description: 组件高内聚低耦合，提供性能监控与资源保护，注重代码风格
-  - description: 开源后收到良好的反响，目前已获得 206 stars 与 116 forks【<a href="https://github.com/ShawnyXiao/SpringBoot-MyBatis">Github 代码</a>】
+  - description: 开源后收到良好的反响，目前已获得 <b>206 stars</b> 与 <b>116 forks</b>【<a href="https://github.com/ShawnyXiao/SpringBoot-MyBatis">Github 代码</a>】
 - project:
-  title: 武汉智慧地铁系统
+  title: <a href="http://whrt.whut.edu.cn/">武汉智慧地铁系统</a>
   time: 2016.05 - 2016.10
   intro: 武汉政府与武汉理工大学的合作项目，旨在为武汉地铁施工提供预警管理。
   descriptions:
