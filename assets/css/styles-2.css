@@ -9,7 +9,7 @@
 /* styles-2.css */
 /* ======= Base ======= */
 body {
-  font-family: 'Roboto', sans-serif;
+  font-family: -apple-system,BlinkMacSystemFont,Helvetica Neue,PingFang SC,Microsoft YaHei,Source Han Sans SC,Noto Sans CJK SC,WenQuanYi Micro Hei,sans-serif;
   color: #545E6C;
   background: #f5f5f5;
   font-size: 14px;
@@ -60,7 +60,7 @@ p {
   background: #4CAC9D;
   position: absolute;
   left: 0;
-  width: 240px;
+  width: 250px;
   height: 100%;
   min-height: 800px;
   color: #fff;
@@ -92,7 +92,7 @@ p {
 }
 .sidebar-wrapper .contact-list .fa {
   margin-right: 5px;
-  font-size: 18px;
+  font-size: 16px;
   vertical-align: middle;
 }
 .sidebar-wrapper .contact-list li {
@@ -102,10 +102,13 @@ p {
   margin-top: 0;
 }
 .sidebar-wrapper .contact-list .email .fa {
-  font-size: 14px;
+  font-size: 13px;
 }
 .sidebar-wrapper .container-block {
   padding: 60px 40px 0 40px;
+}
+.sidebar-wrapper .container-block:last-child {
+  padding-bottom: 60px;
 }
 .sidebar-wrapper .container-block-title {
   text-transform: uppercase;
@@ -126,7 +129,7 @@ p {
 .main-wrapper .section-title {
   text-transform: uppercase;
   font-size: 20px;
-  font-weight: 500;
+  font-weight: 700;
   color: #35776d;
   position: relative;
   margin-top: 0;
@@ -224,7 +227,13 @@ p {
     width: inherit;
   }
   .main-wrapper {
-    padding: 30px;
+    padding: 40px;
+  }
+  .main-wrapper .section:first-child {
+    margin-top: 20px;
+  }
+  .main-wrapper .section:last-child {
+    margin-bottom: 20px;
   }
   .main-wrapper .time {
     position: static;
@@ -272,8 +281,14 @@ used for profile image
 }
 .sidebar-wrapper .profile_info .fa {
   margin-right: 5px;
-  font-size: 18px;
+  font-size: 16px;
   vertical-align: middle;
+}
+.sidebar-wrapper .profile_info .fa-user {
+  font-size: 14px;
+}
+.sidebar-wrapper .profile_info .fa-birthday-cake {
+  font-size: 11px;
 }
 .sidebar-wrapper .profile_info li {
   text-align: left;
@@ -281,9 +296,6 @@ used for profile image
 }
 .sidebar-wrapper .profile_info li:first-child {
   margin-top: 0;
-}
-.sidebar-wrapper .profile_info .fa {
-  font-size: 14px;
 }
 ol, ul {
   margin-bottom: 0;
