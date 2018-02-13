@@ -1,4 +1,12 @@
 - project:
+  title: 第二届智慧中国杯-<a target="_blank" href="http://www.dcjingsai.com/common/cmpt/%E7%B2%BE%E5%93%81%E6%97%85%E8%A1%8C%E6%9C%8D%E5%8A%A1%E6%88%90%E5%8D%95%E9%A2%84%E6%B5%8B_%E7%AB%9E%E8%B5%9B%E4%BF%A1%E6%81%AF.html">精品旅行服务成单预测</a>
+  time: 2018.1 - 2018.2
+  intro: 工业和信息化部联合皇包车举办。希望利用用户的信息数据和在 APP 中的行为数据，预测用户是否会在短期内购买精品旅游服务。
+  descriptions:
+  - description: 在团队中负责单模型的提分：挖掘基础特征、统计特征、交叉特征和基于序列数据的特征等，构建 LightGBM 模型
+  - description: 团队最终分数 9727，排名 <b>15th/1072 (Top 1.40%)</b>
+  - description: 赛后于 Github 开源解决方案【<a target="_blank" href="https://github.com/ShawnyXiao/2018-ICC-TravelService">Github 代码</a>】
+- project:
   title: 大数据与计算智能大赛-<a target="_blank" href="http://www.datafountain.cn/#/competitions/271/intro">企业经营退出风险预测</a>
   time: 2017.10 - 2017.12
   intro: 中国计算机学会（CCF）联合量子数聚举办。希望利用中小型企业的基础数据与行为数据，预测该企业未来两年是否因经营不善而退出市场。
