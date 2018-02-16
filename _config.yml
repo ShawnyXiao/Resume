@@ -1,6 +1,6 @@
 # Site Settings
 title: 肖小粤
-url: 'http://xiaoxiaoyue.site'
+url: 'http://xiaoxiaoyue.me'
 baseurl: '/Resume' # change it according to your repository name（这里深坑，注意大小写）
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
@@ -21,7 +21,7 @@ address: 广东省广州市
 # Sidebar contact links
 email: shawnyxiao@qq.com
 # phone: 18588611169
-website: xiaoxiaoyue.site  # do not add http://
+website: xiaoxiaoyue.me  # do not add http://
 github: ShawnyXiao
 
 # Update all the sections by editing the files inside _data folder.
