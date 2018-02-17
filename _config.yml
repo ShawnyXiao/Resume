@@ -1,7 +1,7 @@
 # Site Settings
 title: 肖小粤
 url: 'http://xiaoxiaoyue.me'
-baseurl: '/Resume' # change it according to your repository name（这里深坑，注意大小写）
+baseurl: '/resume' # change it according to your repository name（这里深坑，注意大小写）
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
 style: styles-2
