@@ -4,7 +4,7 @@
   intro: 工业和信息化部联合皇包车举办。希望利用用户的信息数据和在 APP 中的行为数据，预测用户是否会在短期内购买精品旅游服务。
   descriptions:
   - description: 在团队中负责单模型的提分：挖掘基础特征、统计特征、交叉特征和基于序列数据的特征等，构建 LightGBM 模型
-  - description: 团队最终分数 9727，排名 <b>15th/1072 (Top 1.40%)</b>
+  - description: 团队最终分数 9727，排名 <b>14th/1095 (Top 1.28%)</b>
   - description: 赛后于 Github 开源解决方案【<a target="_blank" href="https://github.com/ShawnyXiao/2018-ICC-TravelService">Github 代码</a>】
 - project:
   title: 大数据与计算智能大赛-<a target="_blank" href="http://www.datafountain.cn/#/competitions/271/intro">企业经营退出风险预测</a>
