@@ -1,4 +1,13 @@
 - project:
+  title: Kaggle - <a target="_blank" href="https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection">TalkingData AdTracking Fraud Detection Challenge</a>
+  time: 2018.04 - 2018.05
+  intro: TalkingData 于 Kaggle 平台举办。希望利用用户和 App 广告的基础数据和用户的点击数据，预测本次点击是否是虚假流量，即：用户在本次点击后是否会下载该 App。
+  descriptions:
+  - description: 仅耗时 6 天且非全脱产，全程 solo
+  - description: 提供的数据大约 10 G，有超过 1 亿个样本，亿级数据的处理和特征构建
+  - description: 最终成绩：<b>公榜 0.9813，银牌</b>
+  - description: 赛后于 Github 和 Kaggle 开源解决方案【<a target="_blank" href="https://github.com/ShawnyXiao/2018-Kaggle-AdTrackingFraud">Github 代码</a>】【<a target="_blank" href="https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection/discussion/57971">Kaggle 方案</a>】
+- project:
   title: 智慧中国杯-<a target="_blank" href="http://www.dcjingsai.com/common/cmpt/%E7%B2%BE%E5%93%81%E6%97%85%E8%A1%8C%E6%9C%8D%E5%8A%A1%E6%88%90%E5%8D%95%E9%A2%84%E6%B5%8B_%E7%AB%9E%E8%B5%9B%E4%BF%A1%E6%81%AF.html">精品旅行服务成单预测</a>
   time: 2018.01 - 2018.02
   intro: 工业和信息化部联合皇包车举办。希望利用用户的信息数据和在 APP 中的行为数据，预测用户是否会在短期内购买精品旅游服务。
