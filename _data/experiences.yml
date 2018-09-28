@@ -1,28 +1,4 @@
-- experience:
-  role: Lead Developer
-  time: 2015 - Present
-  company: Startup Hubs, San Francisco
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo.
-  <br> <br>
-  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-  laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-  architecto beatae vitae dicta sunt explicabo."
-- experience:
-  role: Senior Software Engineer
-  time: 2014 - 2015
-  company: Google, London
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
-- experience:
-  role: UI Developer
-  time: 2012 - 2014
-  company: Amazon, London
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+- project:
+  title: 腾讯-SNG 内容平台部-应用研究岗（3 个月实习）
+  time: 2018.06 - 2018.09
+  intro: 优化 QQ 看点的推送系统算法部分，工作包括模型算法和策略算法部分，目标是提升点击率、人数点击率、DAU（最终目标）、MAU 等。（<b>工作内容及效果暂不公开</b>）
