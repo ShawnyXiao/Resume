@@ -4,24 +4,39 @@
   intro: 达观数据于 DataCastle 平台举办。希望对于给定匿名化的长文本的字和词的序列数据，预测其类别。评价指标使用的是 Macro-F1。
   descriptions:
   - description: 在团队中负责子模型提分（提取特征、模型结构创新）、模型融合（Stacking 和 Blending 的集成策略）与最终的答辩展示
-  - description: 团队最终分数 0.8047，<b>冠军（1st/3216）</b>
+  - description: 最终成绩：分数 0.8047，<b>冠军（1st/3216）</b>
   - description: 赛后于 GitHub 开源解决方案，目前已获得 <b>44 stars</b>【<a target="_blank" href="https://github.com/ShawnyXiao/2018-DC-DataGrand-TextIntelProcess">解决方案</a>】
 - project:
+  title: 腾讯广告算法大赛-<a target="_blank" href="http://algo.tpai.qq.com/home/home/index.html">相似人群拓展</a>（初赛）
+  time: 2018.04 - 2018.05
+  intro: 腾讯举办。希望基于广告主提供的种子人群，自动计算出与之相似的扩展人群。对于给定的用户数据和广告数据，预测该用户是否属于该广告的种子人群。评价指标使用的是 AUC。
+  descriptions:
+  - description: 只参与初赛，未参与复赛：负责数据分析，数据预处理，挖掘统计特征和表征特征，构建 LightGBM 模型（纯单模型方案）
+  - description: 初赛成绩：排名 <b>10th/1563 (Top 0.64%)</b>
+  - description: 赛后于 GitHub 开源解决方案【<a target="_blank" href="https://github.com/ShawnyXiao/2018-Tencent-Lookalike">GitHub 代码</a>】
+- project:
   title: Kaggle - <a target="_blank" href="https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection">TalkingData AdTracking Fraud Detection Challenge</a>
-  time: 2018.03 - 2018.05
+  time: 2018.04 - 2018.05
   intro: TalkingData 于 Kaggle 平台举办。希望利用用户和 App 广告的基础数据和用户的点击数据，预测本次点击是否是虚假流量，即：用户在本次点击后是否会下载该 App。评价指标使用的是 AUC。
   descriptions:
   - description: 仅耗时 6 天且非全脱产，全程 solo
   - description: 提供的数据大约 10 G，有超过 1 亿个样本，亿级数据的处理和特征构建
-  - description: 最终成绩：<b>公榜 0.9813，私榜 0.9822，银牌</b>
+  - description: 最终成绩：公榜分数 0.9813，私榜分数 0.9822，<b>银牌</b>
   - description: 赛后于 GitHub 和 Kaggle 开源解决方案【<a target="_blank" href="https://github.com/ShawnyXiao/2018-Kaggle-AdTrackingFraud">GitHub 代码</a>】【<a target="_blank" href="https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection/discussion/57971">Kaggle 方案</a>】
+- project:
+  title: Kaggle - <a target="_blank" href="https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge">Toxic Comment Classification Challenge</a>
+  time: 2018.02 - 2018.03
+  intro: Conversation AI 于 Kaggle 平台举办。希望对于给定的维基百科的评论文本，预测文本的恶意类别。评价指标使用的是 AUC。
+  descriptions:
+  - description: 全程 solo：挖掘 TFIDF 特征、统计特征，构造 LightGBM、LR 等传统模型；使用字和词的序列数据训练 TextCNN、GRU、LSTM 等深度学习模型
+  - description: 最终成绩：公榜分数 0.9870，私榜分数 0.9866，<b>铜牌</b>
 - project:
   title: 智慧中国杯-<a target="_blank" href="http://www.dcjingsai.com/common/cmpt/%E7%B2%BE%E5%93%81%E6%97%85%E8%A1%8C%E6%9C%8D%E5%8A%A1%E6%88%90%E5%8D%95%E9%A2%84%E6%B5%8B_%E7%AB%9E%E8%B5%9B%E4%BF%A1%E6%81%AF.html">精品旅行服务成单预测</a>
   time: 2018.01 - 2018.02
   intro: 工业和信息化部联合皇包车举办。希望利用用户的信息数据和在 APP 中的行为数据，预测用户是否会在短期内购买精品旅游服务。评价指标使用的是 AUC。
   descriptions:
   - description: 在团队中负责单模型的提分：挖掘基础特征、统计特征、交叉特征和基于序列数据的特征等，构建 LightGBM 模型
-  - description: 团队最终分数 9727，排名 <b>14th/1135 (Top 1.23%)</b>
+  - description: 最终成绩：分数 9727，排名 <b>14th/1135 (Top 1.23%)</b>
   - description: 赛后于 GitHub 开源解决方案【<a target="_blank" href="https://github.com/ShawnyXiao/2018-ICC-TravelService">GitHub 代码</a>】
 - project:
   title: 大数据与计算智能大赛-<a target="_blank" href="http://www.datafountain.cn/#/competitions/271/intro">企业经营退出风险预测</a>
@@ -29,17 +44,17 @@
   intro: 中国计算机学会（CCF）联合量子数聚举办。希望利用中小型企业的基础数据与行为数据，预测该企业未来两年是否因经营不善而退出市场。评价指标使用的是 AUC。
   descriptions:
   - description: 在团队中负责单模型的提分：挖掘基础特征、统计特征和交叉特征等，构建 XGBoost 模型
-  - description: 复赛 B 榜单模型分数在团队中最优，单模型分数 6930
-  - description: 复赛 A 榜团队分数 6945，排名 <b>3rd/569</b>，B榜分数 6947，排名 <b>9th/569 (Top 1.58%)</b>
+  - description: 复赛 B 榜单模型分数在团队中最优，单模型分数 0.6930
+  - description: 最终成绩：A 榜分数 0.6945，排名 <b>3rd/569</b>，B榜分数 0.6947，排名 <b>9th/569 (Top 1.58%)</b>
   - description: 赛后于 GitHub 开源解决方案，目前已获得 <b>48 stars</b> 与 <b>34 forks</b>【<a target="_blank" href="https://github.com/ShawnyXiao/2017-CCF-BDCI-Enterprise">GitHub 代码</a>】
 - project:
   title: 大数据与计算智能大赛-<a target="_blank" href="http://www.datafountain.cn/#/competitions/277/intro">让 AI 当法官</a>（初赛）
-  time: 2017.10 - 2017.12
+  time: 2017.10 - 2017.11
   intro: 中国计算机学会（CCF）联合明略数据举办。希望利用法律案件的案情文本，预测该案件所处的罚金额度范围（初赛）和相关法律条文（复赛）。评价指标使用的是 Micro-F1。
   descriptions:
   - description: 初赛 solo，未参加复赛：对文本数据进行分词和去除停用词等预处理操作，挖掘词性特征和统计特征等，基于 stacking 构建融合模型
-  - description: 比赛中只提交了 2 次，便达到分数 4503
-  - description: 初赛 A 榜分数 4503，排名 <b>5th/415</b>，B榜分数 4573，排名 <b>7th/415 (Top 1.68%)</b>
+  - description: 比赛中只提交了 2 次，便达到分数 0.4503
+  - description: 初赛成绩：A 榜分数 0.4503，排名 <b>5th/415</b>，B 榜分数 0.4573，排名 <b>7th/415 (Top 1.68%)</b>
   - description: 赛后于 GitHub 开源解决方案，目前已获得 <b>112 stars</b> 与 <b>60 forks</b>【<a target="_blank" href="https://github.com/ShawnyXiao/2017-CCF-BDCI-AIJudge">GitHub 代码</a>】
 - project:
   title: <a target="_blank" href="https://github.com/ShawnyXiao/SpringBoot-MyBatis">SprintBoot-MyBatis</a>
