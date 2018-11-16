@@ -5,7 +5,7 @@
   descriptions:
   - description: 在团队中负责子模型提分（提取特征、模型结构创新）、模型融合（Stacking 和 Blending 的集成策略）与最终的答辩展示
   - description: 最终成绩：分数 0.8047，<b>冠军（1st/3216）</b>
-  - description: 赛后于 GitHub 开源解决方案，目前已获得 <b>60 stars</b> 与 <b>11 forks</b>【<a target="_blank" href="https://github.com/ShawnyXiao/2018-DC-DataGrand-TextIntelProcess">解决方案</a>】
+  - description: 赛后于 GitHub 开源解决方案，目前已获得 <b>90 stars</b> 与 <b>15 forks</b>【<a target="_blank" href="https://github.com/ShawnyXiao/2018-DC-DataGrand-TextIntelProcess">解决方案</a>】
 - project:
   title: 腾讯广告算法大赛-<a target="_blank" href="http://algo.tpai.qq.com/home/home/index.html">相似人群拓展</a>（初赛）
   time: 2018.04 - 2018.05
@@ -22,7 +22,7 @@
   - description: 仅耗时 6 天且非全脱产，全程 solo
   - description: 提供的数据大约 10 G，有超过 1 亿个样本，亿级数据的处理和特征构建
   - description: 最终成绩：公榜分数 0.9813，私榜分数 0.9822，<b>银牌</b>
-  - description: 赛后于 GitHub 和 Kaggle 开源解决方案【<a target="_blank" href="https://github.com/ShawnyXiao/2018-Kaggle-AdTrackingFraud">GitHub 代码</a>】【<a target="_blank" href="https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection/discussion/57971">Kaggle 方案</a>】
+  - description: 赛后于 GitHub 和 Kaggle 开源解决方案，目前已获得 <b>40 stars</b> 与 <b>10 forks</b>【<a target="_blank" href="https://github.com/ShawnyXiao/2018-Kaggle-AdTrackingFraud">GitHub 代码</a>】【<a target="_blank" href="https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection/discussion/57971">Kaggle 方案</a>】
 - project:
   title: Kaggle - <a target="_blank" href="https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge">Toxic Comment Classification Challenge</a>
   time: 2018.02 - 2018.03
