@@ -4,11 +4,13 @@ url: 'http://shawnyxiao.github.io'
 baseurl: '/resume' # change it according to your repository name（这里深坑，注意大小写）
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
-style: styles-2
-# style: styles-3
-# style: styles-4
-# style: styles-5
-# style: styles-6
+# style: styles-1 # 青色-修订版1
+style: styles-2 # 黑色-修订版2
+# style: styles-3 # 绿色
+# style: styles-4 # 紫色
+# style: styles-5 # 橙色
+# style: styles-6 # 灰色
+# style: styles-7 # 蓝色
 
 # Profile information
 name: 肖小粤
