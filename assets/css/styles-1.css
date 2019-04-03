@@ -77,14 +77,14 @@ p {
 .sidebar-wrapper .name {
   font-size: 32px;
   font-weight: 900;
-  margin-top: 40px;
+  margin-top: 60px;
   margin-bottom: 0;
 }
 .sidebar-wrapper .tagline {
   color: rgba(255, 255, 255, 0.6);
   font-size: 16px;
   font-weight: 400;
-  margin-top: 40px;
+  margin-top: 60px;
   margin-bottom: 0;
 }
 .sidebar-wrapper .profile {
@@ -277,7 +277,7 @@ used for profile image
 
 /* Customed */
 .sidebar-wrapper .profile_info {
-  margin-top: 40px;
+  margin-top: 60px;
 }
 .sidebar-wrapper .profile_info .fa {
   margin-right: 5px;
